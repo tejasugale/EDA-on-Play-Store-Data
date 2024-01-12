@@ -12,6 +12,9 @@ Benefits of EDA
 EDA offers a number of benefits, including:
 
 Better understanding of the data: EDA can help you to understand the data's main characteristics, such as its distribution, its central tendency, and its variability. This understanding can help you to make better decisions about how to analyze the data.
+
 Identification of problems: EDA can help you to identify problems with the data, such as outliers, missing values, and errors. This can help you to correct the data before you start your analysis.
+
 Data reduction: EDA can help you to reduce the size of your data set by identifying patterns and relationships. This can make it easier to analyze the data and identify trends.
+
 Data visualization: EDA can help you to visualize the data in a way that makes it easier to understand. This can be helpful for communicating the results of your analysis to others.
